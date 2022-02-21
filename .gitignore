@@ -14,8 +14,16 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+<<<<<<< HEAD
 # Recordings can get excessive in size
 /[Rr]ecordings/
+=======
+Brackeys 2022.1/Library
+Brackeys 2022.1/Temp
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+>>>>>>> 73eb668640b4e433572c622657db0c59ec8a8fd9
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
