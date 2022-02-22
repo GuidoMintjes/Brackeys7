@@ -15,32 +15,29 @@ MonoBehaviour:
   SimpleSelectedItems:
     m_Keys:
     - .collabignore
-    - Assets/Scenes.meta
+    - Assets/Input Actions/Input.cs
+    - Assets/Input Actions/Input.cs.meta
+    - Assets/Input Actions/Input.inputactions
+    - Assets/Input Actions/Input.inputactions.meta
+    - Assets/Materials.meta
+    - Assets/Materials/Red.mat
+    - Assets/Materials/Red.mat.meta
+    - Assets/New Terrain 1.asset
+    - Assets/New Terrain 1.asset.meta
     - Assets/Scenes/TestScene.unity
     - Assets/Scenes/TestScene.unity.meta
+    - Assets/Scripts/Player/CameraController.cs
+    - Assets/Scripts/Player/CameraController.cs.meta
+    - Assets/Scripts/Player/PlayerController.cs
+    - Assets/Scripts/Player/PlayerController.cs.meta
+    - Assets/TerrainData_24b4d044-b201-4457-af4e-d082bbcbf220.asset
+    - Assets/TerrainData_24b4d044-b201-4457-af4e-d082bbcbf220.asset.meta
     - Packages/manifest.json
     - Packages/packages-lock.json
-    - ProjectSettings/AudioManager.asset
-    - ProjectSettings/ClusterInputManager.asset
-    - ProjectSettings/DynamicsManager.asset
-    - ProjectSettings/EditorBuildSettings.asset
-    - ProjectSettings/EditorSettings.asset
-    - ProjectSettings/GraphicsSettings.asset
-    - ProjectSettings/InputManager.asset
-    - ProjectSettings/NavMeshAreas.asset
-    - ProjectSettings/Physics2DSettings.asset
-    - ProjectSettings/PresetManager.asset
-    - ProjectSettings/ProjectSettings.asset
     - ProjectSettings/ProjectVersion.txt
-    - ProjectSettings/QualitySettings.asset
-    - ProjectSettings/TagManager.asset
-    - ProjectSettings/TimeManager.asset
-    - ProjectSettings/UnityConnectSettings.asset
-    - ProjectSettings/VFXManager.asset
-    - ProjectSettings/VersionControlSettings.asset
     - 
-    m_Values: 00000000000000000000000000000000000000000000000000
-  RevisionSummary: bbb
+    m_Values: 00000000000000000000000000000000000000000000
+  RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
