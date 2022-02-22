@@ -79,5 +79,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+<<<<<<< HEAD
 
 *.log
+=======
+*.log
+>>>>>>> 5d5e6fd733ea5b9c35c29eb000e69618f16324d1
